@@ -1,5 +1,5 @@
-# iPod-mini
-
+# iPod-Classic
+## View this app at: https://github.com/Amreshnit/ipod-mini
 
 ## Basic Features.
 
