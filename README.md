@@ -8,7 +8,7 @@
 3. Fully working settings menu(change theme, change wheel color, change wallpaper).
 4. Amazing looking lock screen.
 5. Now playing Menu.
-6. All design credits to apple, afterall immitation is the sincerest form of flattery. Also motivated by an app named retroPod from appstore by James'o Brian.
+6. All design credits to apple, afterall immitation is the sincerest form of flattery. Also motivated by an app named retroPod from appstore by Amresh kumar.
 7. Songs and images only for personal use, a big credit to font-awesome and flat-icons.
 8. Please contact me for any concerns. 
 
